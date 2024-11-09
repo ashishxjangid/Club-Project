@@ -1,0 +1,27 @@
+.Sidebar {
+    width: 200px;
+    height: 550px;
+    background-color: #f0f0f0;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+}
+
+.buttons {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.Teams {
+    text-align: left;
+    margin-left: 50px;
+}
+
+h3 {
+    margin-top: 40px;
+}
+
+.setting {
+    margin-top: 20px;
+}

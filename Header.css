@@ -1,0 +1,14 @@
+.Header {
+    width: 900px;
+    height: 70px;
+    color: black;
+    margin: 0px 20px 0px 90px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Icons {
+    
+    margin-top: 20px;
+}
